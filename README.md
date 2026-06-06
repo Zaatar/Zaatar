@@ -9,7 +9,7 @@
 > RPG and Soulslike fan, fan of great UI in games (shoutout to Persona 3 Reloaded for being a massive inspiration).
 
 
-> 🔭 I’m currently working on a personal project to create an engaging and rewarding melee fighting system.
+🔭 I’m currently working on a personal project to create an engaging and rewarding melee fighting system.
 <!--
 **Zaatar/Zaatar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
