@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi there, I'm Hani 👋
+📍 **Montpellier, France** | 🎮 **Gameplay & UI Programmer**
+![C++](https://img.shields.io/badge/-C%2B%2B%20-%20%2300599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/-Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
+> RPG and Soulslike fan, fan of great UI in games (shoutout to Persona 3 Reloaded for being a massive inspiration).
+> 🔭 I’m currently working on a personal project to create an engaging and rewarding melee fighting system.
 <!--
 **Zaatar/Zaatar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
