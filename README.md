@@ -9,7 +9,7 @@
 > RPG and Soulslike fan, fan of great UI in games (shoutout to Persona 3 Reloaded for being a massive inspiration).
 
 
-🔭 I’m currently working on a personal project to create an engaging and rewarding melee fighting system.
+🔭 Currently working on a personal project to create a Souls-Inspired melee fighting system. Interested in emulation and emulators I'm also currently working on a Chip8 Emulator to get familiarized with emulators.
 <!--
 **Zaatar/Zaatar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
